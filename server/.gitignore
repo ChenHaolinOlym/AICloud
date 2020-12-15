@@ -1,0 +1,7 @@
+/static/images/
+/ImagetoText/decoder-2-1000.ckpt
+/ImagetoText/encoder-2-1000.ckpt
+/ImagetoText/*.png
+/ImagetoText/*.jpeg
+/ImagetoText/vocab.pkl
+/TextSummarization/data/
